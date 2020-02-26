@@ -2,7 +2,7 @@
 Demonstration on how to use Agora Video SDK in a AR screen sharing scenario. This project amends the Demo project from the Asset Store SDK and the online ARFoundation Tutorial as an advanced tutorial.
 
 #### Dependencies:
-- Unity 2018 LTS Recommended
+- Unity 2019.2 
 - Unity Asset [Tanks!!! Reference Project](https://assetstore.unity.com/packages/essentials/tutorial-projects/tanks-reference-project-80165)
 - Unity Asset [Agora Video SDK](https://assetstore.unity.com/packages/tools/video/agora-video-sdk-for-unity-134502)
 - Agora AppId [Project page](https://console.agora.io/projects)
