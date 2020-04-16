@@ -14,4 +14,5 @@ Demonstration on how to use Agora Video SDK in a AR screen sharing scenario. Thi
 5. Open TestHome scene and input your AppID to the GameController game object.
 6. Following the settings in README_ARFoundation, build and run on compatible iOS and Android devices to test.
 
-#### See [this blog](https://bit.ly/2XQ8a3N) for the tutorial on the project.
+#### 
+See this blog [on Medium](https://bit.ly/2XQ8a3N) or [Dev.to](https://bit.ly/3bdVNlQ) for the tutorial on the project.
